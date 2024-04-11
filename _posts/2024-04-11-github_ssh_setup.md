@@ -1,4 +1,4 @@
-# Adding a Local Repository to Github for macOS:
+# Adding a Local Repository to Github for macOS
 
 Generating and adding SSH keys only need to be done if it hasn't been done before.
 
