@@ -1,6 +1,6 @@
-# Adding a Local Repository to Github
+# Adding a Local Repository to Github for macOS:
 
-General preformatted text:
+Generate SSH key (if not already done):
 
-    # Do a thing
-    do_thing()
+    ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
