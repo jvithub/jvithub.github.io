@@ -13,3 +13,9 @@ Add SSH key to SSH agent:
 Add SSH private key to the SSH agent:
 
     ssh-add ~/.ssh/id_rsa
+
+Copy key to clipboard:
+
+    pbcopy < ~/.ssh/id_rsa.pub
+
+Add the key to 'SSH keys' in settings of Github profile.
